@@ -27,7 +27,7 @@ $ git clone https://github.com/Your_Username/geeksforgeeks.git
 Once you have cloned the `geeksforgeeks` repository in Github, move to that folder first using change directory command on Linux, Windows and Mac.
 ```sh
 $ cd geeksforgeeks
-# This will change directory to a folder musicApp
+# This will change directory to a folder geeksforgeeks
 ```
 ### 3. Ready Steady Go... :turtle: :rabbit2:
 Once you have completed these steps, you are ready to start contributing by checking our `CSoC` Issues and creating [pull requests](https://github.com/cu-coders/geeksforgeeks/pulls).
